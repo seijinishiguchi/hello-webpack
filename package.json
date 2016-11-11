@@ -1,0 +1,18 @@
+{
+  "name": "myApp",
+  "version": "1.0.0",
+  "description": "try webpack tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.13.3"
+  },
+  "dependencies": {
+    "vue": "^2.0.5"
+  }
+}
